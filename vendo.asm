@@ -1,6 +1,6 @@
 ; ============================================
 ;  VENDO - Vending Machine (8086, TASM)
-;  Abdallah & Ali Walid
+;  Abdallah Mohamed
 ; ============================================
 
 printstr macro msg
